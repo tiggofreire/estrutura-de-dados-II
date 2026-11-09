@@ -299,6 +299,6 @@ Neste projeto, a estrutura escolhida foi a **Árvore Rubro-Negra**, e seus conce
 
 **Curso:** Ciência da Computação
 
-**Professora:** Kadja
+**Professora:** Kadidja Valéria
 
 **Ano:** 2026
