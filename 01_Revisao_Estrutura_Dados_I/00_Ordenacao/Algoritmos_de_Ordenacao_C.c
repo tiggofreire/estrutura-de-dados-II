@@ -1,22 +1,3 @@
-// Estrutura de Dados — Algoritmos de Ordenação
-
-Este repositório contém um projeto desenvolvido durante a disciplina de Estrutura de Dados I, com o objetivo de estudar e 
-implementar diferentes algoritmos de ordenação utilizando a linguagem C.
-O projeto permite criar e manipular um vetor de números e comparar, na prática, diferentes métodos de ordenação:
-
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* Quick Sort
-
-Além dos algoritmos de ordenação, o programa possui um menu interativo que permite inserir valores manualmente, 
-gerar valores aleatórios, visualizar o vetor e limpá-lo.
-Objetivo do projeto
-
-O principal objetivo foi compreender como funcionam diferentes algoritmos de ordenação e praticar conceitos fundamentais de 
-Estruturas de Dados e Algoritmos. //
-
-
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
