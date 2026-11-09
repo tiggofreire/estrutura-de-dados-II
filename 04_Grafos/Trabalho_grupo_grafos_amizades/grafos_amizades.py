@@ -1,4 +1,4 @@
-"""ConectaUDF: 35 vertices em 7 nucleos de 5 (grupo de 7 alunos).
+"""Trabalho em grupo - Grafos e amizades: 35 vertices em 7 nucleos de 5.
 
 Rede inicial da professora preservada: 6 usuarios e 8 amizades.
 Cada nucleo inclui o nome de um integrante. Seis nucleos incluem
