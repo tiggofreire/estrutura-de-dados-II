@@ -1,16 +1,16 @@
 # Trabalho em grupo - Grafos e amizades
 
-Atividade de **Estrutura de Dados II** sobre a representação de relações de amizade com um **grafo simples e não direcionado**. O exercício utiliza como referência a rede social do material didático **ConectaUDF**, mas esta pasta reúne a entrega do grupo intitulada **Grafos e amizades**.
+Atividade de **Estrutura de Dados II** sobre a representação de relações de amizade com um **grafo simples e não direcionado**. O exercício utiliza como referência a rede social do material didático **ConectaUDF**.
 
 ## Integrantes
 
-- Aloisio Veleda
-- Giovanna Nascimento
-- Guilherme Brito
-- Isabela Cristina
-- Julia Barreira
-- Pedro Paulo
-- Tiago Freire
+- Aloisio Veleda - https://github.com/aloisiodev-byt/Estrutura-de-Dados-II
+- Giovanna Nascimento - https://github.com/giovannalima19/Estrutura_de_dados_II
+- Guilherme Brito - https://github.com/Guilhermoviski/estrutura-de-dados-II
+- Isabela Cristina - https://github.com/isawott/estruturas-dados-II
+- Julia Barreira - https://github.com/Julia-BarCar/Estrutura-de-Dados-II
+- Pedro Paulo - https://github.com/PedroPaulo-exe/Estrutura_de_Dados_II-Kadidja
+- Tiago Freire - https://github.com/tiggofreire/estrutura-de-dados-II
 
 ## Proposta
 
